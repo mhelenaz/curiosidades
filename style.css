@@ -13,7 +13,7 @@ body {
 }
 
 header {
-    background-color: #07c;
+    background-color: rgb(79, 206, 174);
     color: white;
     padding: 20px 10px;
     text-align: center;
@@ -41,7 +41,7 @@ main {
     max-width: 800px;
     margin: 20px auto;
     padding: 15px;
-    border-left: 5px solid #07c;
+    border-left: 5px solid rgb(65, 201, 189);
     border border-radius: 5px;
     box-shadow: 0 0 5px rgba(0,0,0,0,1);
 }
